@@ -1,6 +1,5 @@
 UPDATE Usuario
-SET Nombre="Juan"
-WHERE Ciudad="Mexico";
+SET nombre_alumno="Juan";
 
 UPDATE curso
 SET codigo_curso="14";
